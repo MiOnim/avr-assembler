@@ -1,0 +1,6 @@
+A:
+	LDI r27, $00
+	LDI R26, $11
+	cp R26, R27
+	dec R26
+	brne A

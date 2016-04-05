@@ -5,7 +5,7 @@ public class Test
 	public static void main(String[] args)
 	{
 		try {
-			Assembler test = new Assembler(args[0]);
+			Assembler test = new Assembler("testAssembler.txt");
 			test.run();
 		}
 		catch (AssemblerException e) {
