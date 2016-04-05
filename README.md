@@ -1,4 +1,4 @@
-# avr-assembler
+# csc113-assembler
 This is a very simple implementation of a 2-pass assembler, implemented as part of the course project in CSC 113: Introduction to 
 Embedded-Systems Design at Hofstra University. This assembler converts an AVR assembly language program (with some limitations)
 into machine code.
