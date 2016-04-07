@@ -1,5 +1,3 @@
-package assembler;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 
